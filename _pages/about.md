@@ -22,14 +22,13 @@ Although I have not fully developed my research area, I am generally interested 
 * Convex Optimization in Wireless Communication Systems
 
 
-Getting started
+Favourite Quotes
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Over the years, I have tried to model my life on these quotes:
+* "We cannot solve our problems with the same thinking we used when we created them."- Albert Einstein
+* “If I had five minutes to chop down a tree, I’d spend the first three sharpening my axe.”-Abraham Lincoln
+* “Nobody is going to pour truth into your brain. It’s something you have to find out for yourself.”-Noam Chomsky
+* "Learn continually - there is always 'one more thing' to learn!" - Steve Jobs
 
 Site-wide configuration
 ------
