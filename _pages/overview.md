@@ -19,6 +19,6 @@ Some of the technical courses I have enrolled in:
 As part of my master's degree, I am currently working on vulnerability analysis in mutiuser mimo networks. Prior to this (during 1st year master's), 
 I worked in the domain of deep learning and physical layer security. Deep learning has exhibited great potential in communication systems. Recent advances 
 in deep learning based physical layer techniques have shown that the communication system can be modeled as an end-to-end learning task. I implemented 
-end-to-end learning approach for physical layer security in Gaussian Multiple Access Wiretap Channel. I designed a loss function based on coset 
+end-to-end learning approach for physical layer security in Gaussian Multiple Access Wiretap Channel. I designed the loss function based on coset 
 coding(traditional wiretap coding technique) and a modified kmeans algorithm. This loss function had controllable parameters that can be tuned to guarantee 
 reliability, secrecy and user-priority. In addition to this, I designed training steps that was used on our deep learning model to guarantee model efficiency. 
