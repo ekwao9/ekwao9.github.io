@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Kwame Nkrumah University of Science and Technology, Telecommunication Engineering"
+date: 2021-01-01
+location: "Kumasi, Ghana"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+* Taught students Applied Electricity, Mobile and Satellite Communication, Electromagnetism, Antenna Design and Wave Propagation.
+* Mentored final year students in implementing their final year projects.
+* Taught sophomore students programming with matlab and python.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
