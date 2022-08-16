@@ -8,14 +8,16 @@ author_profile: true
 ## Overview
 
 Some of the technical courses I have enrolled in: 
-* Linear Algebra
-* Probability and Statistics 
-* Signal Processing for Wireless Communication
-* Information Theory
-* Convex Optimization (current class)
-* Machine Learning, Deep Learning and Bayesian Learning: Udemy
-* MIT6.0002 - Introduction to Computational Thinking and Data Science
+* Linear Algebra.
+* Probability, Statistics and Random Processes.
+* Signal Processing for Vehicular Communication.
+* Information Theory.
+* Convex Optimization.
+* Deep Learning Specialization: Coursera (Taught by Andrew Ng).
+* MIT6.0002 - Introduction to Computational Thinking and Data Science (Taught by John Guttag and Eric Grimson).
 
+
+### Projects
 As part of my master's degree, I am currently working on vulnerability analysis in mutiuser mimo networks. Prior to this (during 1st year master's), 
 I worked in the domain of deep learning and physical layer security. Deep learning has exhibited great potential in communication systems. Recent advances 
 in deep learning based physical layer techniques have shown that the communication system can be modeled as an end-to-end learning task. I implemented 
