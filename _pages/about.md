@@ -11,15 +11,15 @@ redirect_from:
 Born in Accra, Ghana, I received my bachelor’s degree in Telecommunication Engineering from the reputable [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/) (KNUST),Ghana-West Africa, in August 2020. In KNUST, I cultivated the habit of self-studying and the ability to independently find information to solve problems. As a member of the [Antenna Group KNUST](https://antennagroupknust.com/), I led a team of three to design "HIGH GAIN PRINTED LOG-PERIODIC DIPOLE
 ANTENNA FOR 440 – 690 MHz UHF APPLICATIONS" for my final year thesis.
 
-I am currently a master's research student at the [Intelligent Communication and Information Security](https://sites.google.com/view/hbnu-icis/home?authuser=0) (ICIS) Lab, Department of Information and Communication Engineering at the [Hanbat National University](https://www.hanbat.ac.kr/eng/) (HBNU), Daejeon-South Korea, under the supervision of Prof. Inkyu Bang and co-supervised by Prof. Taehoon Kim. 
+I am currently a master's research student at the [Intelligent Communication and Information Security](https://sites.google.com/view/hbnu-icis/home?authuser=0) (ICIS) Lab, Department of Intelligent Media Engineering at the [Hanbat National University](https://www.hanbat.ac.kr/eng/) (HBNU), Daejeon-South Korea, under the supervision of Prof. Inkyu Bang and co-supervised by Prof. Taehoon Kim. 
 
 Research Interest
 ======
 Although I have not fully developed my research area, I am generally interested in:
 * Wireless Network Security
 * Random Access
-* Application of Deep/Machine Learning in Wireless Communincation
-* Convex Optimization in Wireless Communication Systems
+* Application of Deep/Machine Learning in Wireless Communication
+* Cellular Communication Networks (4G LTE, 5G)
 
 
 Favourite Quotes
@@ -39,14 +39,14 @@ Create content & metadata
 
 Recent News
 ======
-* September 2021 - I started working at ICIS lab as a graduate research assistant.
-
+* September 2021 - I enrolled in Hanbat National University as a master's student.
+* March 2022 - I started working at ICIS lab, Hanbat National University as a Graduate Research Assistant.
 
 Contact Information
 ------
 Email: edkwao10@gmail.com
 
 Hanbat National University
-Department of Information and Communication Engineering 
+Department of Intelligent Media Engineering 
 Building: N4-312
 34158, Daejeon
