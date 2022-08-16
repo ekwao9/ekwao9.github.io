@@ -19,7 +19,7 @@ Current Position
 ======
 * Graduate Research Assistant at _Intelligent Communication and Information Security Lab_, September 2021 - Present 
   * Currently researching vulnerabilities in 4G LTE and 5G cellular networks.
-  * Researched adversarial attack in DNN-based end-to-end multiuser wireless communication system.
+  * Researched on adversarial attack in DNN-based end-to-end multiuser wireless communication system.
   * Mentored undergraduates in implementing their final year projects.
  
 
