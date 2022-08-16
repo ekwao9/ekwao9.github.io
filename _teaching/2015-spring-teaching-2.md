@@ -1,9 +1,9 @@
 ---
 title: "Intern Information Technology Tutor"
 collection: teaching
-type: "Workshop"
+type: "Ghana Armed Forces"
 permalink: /teaching/2016-spring-teaching-1
-venue: "Ghana Armed Forces, 1 Signal Regiment"
+venue: "Headquarters, 1 Signal Regiment"
 date: 2019-07-01
 location: "Accra, Ghana"
 ---
