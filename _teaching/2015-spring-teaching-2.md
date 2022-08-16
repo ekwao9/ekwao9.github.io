@@ -1,15 +1,12 @@
 ---
-title: "Teaching Assistant"
+title: "Intern Information Technology Tutor"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "Kwame Nkrumah University of Science and Technology, Telecommunication Engineering"
-date: 2021-01-01
-location: "Kumasi, Ghana"
+permalink: /teaching/2016-spring-teaching-1
+venue: "Ghana Armed Forces, 1 Signal Regiment"
+date: 2019-07-01
+location: "Accra, Ghana"
 ---
 
-* Taught students Applied Electricity, Mobile and Satellite Communication, Electromagnetism, Antenna Design and Wave Propagation.
-* Mentored final year students in implementing their final year projects.
-* Taught sophomore students programming with matlab and python.
-
-
+* Taught Other Rank soldiers cellular network protocols and data communication networks.
+* Gave lessons for an hour, twice a week.
