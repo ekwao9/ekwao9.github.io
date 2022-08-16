@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Science and Mathematics Tutor"
 collection: teaching
-type: "Undergraduate course"
+type: "Junior High School"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "JHS 1-3, Science and Mathematics"
+date: 01-06-2015
+location: "Accra, Ghana"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+* Taught Junior High School (JHS) Students Integrated Science and Mathematics.
+* Established the Science Learners' Club where science discoveries are discussed to stimulate students' interest in science.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
