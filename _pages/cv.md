@@ -1,59 +1,45 @@
 ---
 layout: archive
-title: "CV"
+title: "Summary of Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
+
+[Detailed CV](/)
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSc. Intelligent Media Engineering, Hanbat National University, June 2023 (expected).
+* BSc. Telecommunication Engineering, Kwame Nkrumah University of Science and Technology, August 2022.
 
-Work experience
+Current Position
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Research Assistant at _Intelligent Communication and Information Security (ICIS) Lab_, September 2021 - Present 
+  * Currently researching vulnerabilities in 4G LTE and 5G cellular networks.
+  * Researched adversarial attack in DNN-based end-to-end multiuser wireless communication system.
+  * Mentored undergraduates in implementing their final year projects.
+ 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Technical:
+  * Wireless Network Security
+  * Wireless Communication
+  * Cellular Networks (4G LTE, 5G)
+  * Machine/Deep Learning in Wireless Communication
+  * Convex Optimization
+* Programming: 
+  * Python (libraries: TensorFlow, Keras, Pytorch, scikit-learn, Pandas)
+  * C/C++
+* Tools:
+  * Matlab
+  * LateX
+  * Wireshark
+  * USRP/GNU Radio Companion
+* Competitive Edge: 
+  * Probem solving skills
+  * Self-motivated
+  * Results oriented
