@@ -1,8 +1,9 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
+type: "Kwame Nkrumah University of Science and Technology"
 permalink: /teaching/2016-spring-teaching-1
-venue: "Kwame Nkrumah University of Science and Technology, Telecommunication Engineering"
+venue: "West Africa, Telecommunication Engineering"
 date: 2021-01-01
 location: "Kumasi, Ghana"
 ---
