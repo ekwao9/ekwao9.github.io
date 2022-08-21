@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-[Detailed CV]
+[Detailed CV](/files/edwardkwao.pdf)
 
 Education
 ======
