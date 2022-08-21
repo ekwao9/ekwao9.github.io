@@ -16,10 +16,10 @@ I am currently a master's research student at the [Intelligent Communication and
 Research Interest
 ======
 Although I have not fully developed my research area, I am generally interested in:
-* Wireless Network Security
-* Random Access
-* Application of Deep/Machine Learning in Wireless Communication
-* Cellular Communication Networks (4G LTE, 5G)
+* Wireless Network Security.
+* Random Access.
+* Application of Deep/Machine Learning in Wireless Communication.
+* Cellular Communication Networks (4G LTE, 5G).
 
 
 Favourite Quotes
@@ -30,17 +30,11 @@ Over the years, I have tried to model my life on these quotes:
 * “Nobody is going to pour truth into your brain. It’s something you have to find out for yourself.”-Noam Chomsky
 * "Learn continually - there is always 'one more thing' to learn!" - Steve Jobs
 
-Site-wide configuration
-------
-
-
-Create content & metadata
-------
 
 Recent News
 ======
 * September 2021 - I enrolled in Hanbat National University as a master's student.
-* March 2022 - I started working at ICIS lab, Hanbat National University as a Graduate Research Assistant.
+* February 2022 - I started working at ICIS lab, Hanbat National University as a Graduate Research Assistant.
 
 Contact Information
 ------
