@@ -20,6 +20,7 @@ Although I have not fully developed my research area, I am generally interested 
 * Random Access.
 * Application of Deep/Machine Learning in Wireless Communication.
 * Cellular Communication Networks (4G LTE, 5G).
+* Internet of Things(IoT).
 
 
 Favourite Quotes
