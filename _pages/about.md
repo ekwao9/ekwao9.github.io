@@ -18,6 +18,7 @@ Research Interest
 Although I have not fully developed my research area, I am generally interested in:
 * Wireless Network Security.
 * Random Access.
+* Information Theory.
 * Application of Deep/Machine Learning in Wireless Communication Systems
 * Optimization in Wireless Communication Systems.
 * Cellular Communication Networks (4G LTE, 5G).
