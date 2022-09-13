@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-[Detailed CV](/files/Curriculum.Vitae.pdf)
+[Find Detailed CV](/files/Curriculum.Vitae.pdf)
 
 Education
 ======
