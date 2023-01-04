@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* MSc. Intelligent Media Engineering, Hanbat National University, June 2023 (expected).
+* MSc. Intelligence Media Engineering, Hanbat National University, June 2023 (expected).
 * BSc. Telecommunication Engineering, Kwame Nkrumah University of Science and Technology, August 2022.
 
 Current Position
