@@ -11,7 +11,7 @@ redirect_from:
 Born in Accra, Ghana, I received my bachelor’s degree in Telecommunication Engineering from the reputable [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/) (KNUST),Ghana-West Africa, in August 2020. In KNUST, I cultivated the habit of self-studying and the ability to independently find information to solve problems. As a member of the [Antenna Group KNUST](https://antennagroupknust.com/), I led a team of three to design "HIGH GAIN PRINTED LOG-PERIODIC DIPOLE
 ANTENNA FOR 440 – 690 MHz UHF APPLICATIONS" for my final year thesis.
 
-I am currently a master's research student at the [Intelligent Communication and Information Security](https://sites.google.com/view/hbnu-icis/home?authuser=0) (ICIS) Lab, Department of Intelligent Media Engineering at the [Hanbat National University](https://www.hanbat.ac.kr/eng/) (HBNU), Daejeon-South Korea, under the supervision of Prof. Inkyu Bang and co-supervised by Prof. Taehoon Kim. 
+I am currently a master's research student at the [Intelligent Communication and Information Security](https://sites.google.com/view/hbnu-icis/home?authuser=0) (ICIS) Lab, Department of Intelligence Media Engineering at the [Hanbat National University](https://www.hanbat.ac.kr/eng/) (HBNU), Daejeon-South Korea, under the supervision of Prof. Inkyu Bang and co-supervised by Prof. Taehoon Kim. 
 
 Research Interest
 ======
